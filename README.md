@@ -4,6 +4,8 @@ Circuit Breaker Implementation in Go
 
 * This version is much simple and idiomatic
 
+* It doesn't have any external dependency 
+
 * Inspired by Nexflix Hystrix https://github.com/Netflix/Hystrix
 
 How to use
